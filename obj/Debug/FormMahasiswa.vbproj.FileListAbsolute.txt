@@ -1,0 +1,12 @@
+C:\Users\ASUS\OneDrive\文档\Visual Studio 2013\Projects\FormMahasiswa\FormMahasiswa\bin\Debug\FormMahasiswa.exe.config
+C:\Users\ASUS\OneDrive\文档\Visual Studio 2013\Projects\FormMahasiswa\FormMahasiswa\obj\Debug\FormMahasiswa.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS\OneDrive\文档\Visual Studio 2013\Projects\FormMahasiswa\FormMahasiswa\obj\Debug\FormMahasiswa.Form1.resources
+C:\Users\ASUS\OneDrive\文档\Visual Studio 2013\Projects\FormMahasiswa\FormMahasiswa\obj\Debug\FormMahasiswa.Resources.resources
+C:\Users\ASUS\OneDrive\文档\Visual Studio 2013\Projects\FormMahasiswa\FormMahasiswa\obj\Debug\FormMahasiswa.vbproj.GenerateResource.Cache
+C:\Users\ASUS\OneDrive\文档\Visual Studio 2013\Projects\FormMahasiswa\FormMahasiswa\bin\Debug\FormMahasiswa.exe
+C:\Users\ASUS\OneDrive\文档\Visual Studio 2013\Projects\FormMahasiswa\FormMahasiswa\bin\Debug\FormMahasiswa.pdb
+C:\Users\ASUS\OneDrive\文档\Visual Studio 2013\Projects\FormMahasiswa\FormMahasiswa\bin\Debug\FormMahasiswa.xml
+C:\Users\ASUS\OneDrive\文档\Visual Studio 2013\Projects\FormMahasiswa\FormMahasiswa\obj\Debug\FormMahasiswa.exe
+C:\Users\ASUS\OneDrive\文档\Visual Studio 2013\Projects\FormMahasiswa\FormMahasiswa\obj\Debug\FormMahasiswa.xml
+C:\Users\ASUS\OneDrive\文档\Visual Studio 2013\Projects\FormMahasiswa\FormMahasiswa\obj\Debug\FormMahasiswa.pdb
+C:\Users\ASUS\OneDrive\文档\Visual Studio 2013\Projects\FormMahasiswa\FormMahasiswa\obj\Debug\FormMahasiswa.Form2.resources
