@@ -10,3 +10,4 @@ C:\Users\ASUS\OneDrive\文档\Visual Studio 2013\Projects\FormMahasiswa\FormMaha
 C:\Users\ASUS\OneDrive\文档\Visual Studio 2013\Projects\FormMahasiswa\FormMahasiswa\obj\Debug\FormMahasiswa.xml
 C:\Users\ASUS\OneDrive\文档\Visual Studio 2013\Projects\FormMahasiswa\FormMahasiswa\obj\Debug\FormMahasiswa.pdb
 C:\Users\ASUS\OneDrive\文档\Visual Studio 2013\Projects\FormMahasiswa\FormMahasiswa\obj\Debug\FormMahasiswa.Form2.resources
+C:\Users\ASUS\OneDrive\文档\Visual Studio 2013\Projects\FormMahasiswa\FormMahasiswa\obj\Debug\FormMahasiswa.Form3.resources
